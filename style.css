@@ -1,0 +1,15 @@
+body{
+    background-color: #166a75;
+    color: #fff;
+}
+span{
+    color: #22d4fd;
+}
+.botoes a{
+    
+    background-color: #22d4fd;
+    color: #000;
+    text-decoration: none;
+    padding:10px;
+    border-radius: 10%;
+}
